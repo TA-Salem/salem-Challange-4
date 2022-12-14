@@ -1,6 +1,6 @@
 import 'package:get/get.dart';
-import 'package:salemchallenge4/api/api.dart';
-import 'package:salemchallenge4/api/apinet.dart';
+import 'package:salemchallenge4/Consts/apiConstants.dart';
+import 'package:salemchallenge4/api/apiClass.dart';
 
 class UsersController extends GetxController {
   var dataUsers;

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:get/get_navigation/get_navigation.dart';
-import 'package:salemchallenge4/homepage.dart';
+import 'package:salemchallenge4/pages/homepage.dart';
 
 void main() {
   runApp(const MyApp());

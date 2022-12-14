@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:http/http.dart' as http;
-import 'package:salemchallenge4/api/apinet.dart';
-import 'package:salemchallenge4/api/cont.dart';
+import 'package:salemchallenge4/api/apiClass.dart';
+import 'package:salemchallenge4/Controllers/userController.dart';
 
 class HomePage extends StatelessWidget {
   HomePage({super.key});
